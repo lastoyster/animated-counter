@@ -1,1 +1,2 @@
-# animated-counter
+# animated-counter 
+ Animated-counter  app made with Jquery
